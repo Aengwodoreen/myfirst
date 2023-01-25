@@ -7,10 +7,11 @@
 innstallation of tools
 
 install
-1.Git bash2. Rstudio
+1.Git bash
+2.Rstudio
 
 *Day two*
-~Introduction to commandline
+Introduction to commandline
 1.introduction to shell
 
 
