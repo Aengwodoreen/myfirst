@@ -1,6 +1,6 @@
 # myfirst
-my first repository to store and write
-i will write on the Bioinformatics workshop we have had from 23 january to 27 january
+#my first repository to store and write
+~i will write on the Bioinformatics workshop we have had from 23 january to 27 january
 
 
 *Day one*
