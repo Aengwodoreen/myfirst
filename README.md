@@ -10,9 +10,8 @@ install
 1.Git bash2. Rstudio
 
 *Day two*
-
-1.Introduction to commandline
-2.introduction to shell
+~Introduction to commandline
+1.introduction to shell
 
 
 *Day three*
