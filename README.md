@@ -4,13 +4,17 @@
 
 
 *Day one*
+
 innstallation of tools
 
 install
+
 1.Git bash
 2.Rstudio
 
 *Day two*
+
+
 Introduction to commandline
 1.introduction to shell
 
