@@ -3,18 +3,18 @@ my first repository to store and write
 i will write on the Bioinformatics workshop we have had from 23 january to 27 january
 
 
-Day one
+*Day one*
 innstallation of tools
 
 install
-Git bash Rstudio
+1.Git bash2. Rstudio
 
-Day two
+*Day two*
 
-Introduction to commandline
-introduction to shell
+1.Introduction to commandline
+2.introduction to shell
 
 
-Day three
+*Day three*
 
-Introduction to Git
+1.Introduction to Git
